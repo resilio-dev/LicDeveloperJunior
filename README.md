@@ -37,14 +37,13 @@ Estoy constantemente aprendiendo y mejorando mis habilidades, y disfruto colabor
 ## 🚀 Mi portfolio
 
 ### 🎯 **SPA con Angular, Backend con Spring Boot y BD MySQL**
-> Una aplicación web Full Stack para plasmar mi información personal.
+> Una aplicación web Full Stack para mostrar mi información personal.
 - Frontend en **Angular** con componentes standalone y estilos responsivos.
 - Backend en **Spring Boot**, con autenticación basada en JWT.
 - Base de datos relacional **MySQL**.
 - Arquitectura en Capas + Patrón MVC.
-- Paginación y pruebas unitarias con **JUnit** y **Mockito**.
 
-📌 Podés ver más en 👉 [Repositorios públicos](https://github.com/LicDeveloperJunior/agustin-portfolio)
+📌 Podés ver más en 👉 [Mi Portfolio](https://github.com/LicDeveloperJunior/agustin-portfolio)
 
 ---
 
