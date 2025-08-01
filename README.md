@@ -6,7 +6,7 @@
 
 ## 🧠 Sobre mí
 
-Soy un desarrollador **Full Stack** con una base sólida en programación y estructuras de datos gracias a mis estudios en **Ciencias de la Computación**. Me encanta construir aplicaciones web dinámicas y resolver desafíos técnicos aplicando buenas prácticas de desarrollo.
+Soy desarrollador **Full Stack** con una base sólida en programación y estructuras de datos gracias a mis estudios en **Ciencias de la Computación**. Me encanta construir aplicaciones web dinámicas y resolver desafíos técnicos aplicando buenas prácticas de desarrollo.
 
 Estoy constantemente aprendiendo y mejorando mis habilidades, y disfruto colaborar en proyectos donde pueda aportar valor y crecer junto a otros desarrolladores.
 
@@ -30,7 +30,7 @@ Estoy constantemente aprendiendo y mejorando mis habilidades, y disfruto colabor
 - Git & GitHub
 - Docker
 - Swagger
-- NetBeans, VS Code
+- NetBeans, VS Code, Cursor
 
 ---
 
@@ -49,7 +49,7 @@ Estoy constantemente aprendiendo y mejorando mis habilidades, y disfruto colabor
 
 ## 🎓 Formación y certificaciones
 
-- 🧪 **Licenciatura en Ciencias de la Computación** (2do año)
+- 🧪 **Licenciatura en Ciencias de la Computación** (hasta 3er año)
 - 📜 Certificado Full Stack Web Developer – *INTI / Argentina Programa 4.0*
 - 💡 Certificado en Diseño Web – *Fundación Unión Internacional de Jóvenes*
 - 🇬🇧 Inglés Técnico Nivel 2 – *CUI*
